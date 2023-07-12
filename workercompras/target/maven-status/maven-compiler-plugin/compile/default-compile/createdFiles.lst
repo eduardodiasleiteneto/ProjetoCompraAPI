@@ -1,0 +1,15 @@
+com\workercompras\model\Pedido.class
+com\workercompras\WorkercomprasApplication.class
+com\workercompras\model\Endereco.class
+com\workercompras\model\Endereco$EnderecoBuilder.class
+com\workercompras\service\EmailService.class
+com\workercompras\config\RabbitmqConfig.class
+com\workercompras\model\Cartao.class
+com\workercompras\config\FeignConfiguration.class
+com\workercompras\service\consumer\Consumer.class
+com\workercompras\repository\CepRepository.class
+com\workercompras\model\Pedido$PedidoBuilder.class
+com\workercompras\service\CartaoService.class
+com\workercompras\service\producer\PedidoProducer.class
+com\workercompras\model\Cartao$CartaoBuilder.class
+com\workercompras\service\CepService.class

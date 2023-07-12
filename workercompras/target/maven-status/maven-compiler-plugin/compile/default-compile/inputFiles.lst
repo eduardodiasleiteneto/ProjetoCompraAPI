@@ -1,0 +1,12 @@
+C:\Users\edu22\OneDrive\Área de Trabalho\PUC_POS_TCC\ProjetoCompraAPI\workercompras\src\main\java\com\workercompras\service\producer\PedidoProducer.java
+C:\Users\edu22\OneDrive\Área de Trabalho\PUC_POS_TCC\ProjetoCompraAPI\workercompras\src\main\java\com\workercompras\service\CartaoService.java
+C:\Users\edu22\OneDrive\Área de Trabalho\PUC_POS_TCC\ProjetoCompraAPI\workercompras\src\main\java\com\workercompras\model\Cartao.java
+C:\Users\edu22\OneDrive\Área de Trabalho\PUC_POS_TCC\ProjetoCompraAPI\workercompras\src\main\java\com\workercompras\repository\CepRepository.java
+C:\Users\edu22\OneDrive\Área de Trabalho\PUC_POS_TCC\ProjetoCompraAPI\workercompras\src\main\java\com\workercompras\config\FeignConfiguration.java
+C:\Users\edu22\OneDrive\Área de Trabalho\PUC_POS_TCC\ProjetoCompraAPI\workercompras\src\main\java\com\workercompras\model\Pedido.java
+C:\Users\edu22\OneDrive\Área de Trabalho\PUC_POS_TCC\ProjetoCompraAPI\workercompras\src\main\java\com\workercompras\service\EmailService.java
+C:\Users\edu22\OneDrive\Área de Trabalho\PUC_POS_TCC\ProjetoCompraAPI\workercompras\src\main\java\com\workercompras\model\Endereco.java
+C:\Users\edu22\OneDrive\Área de Trabalho\PUC_POS_TCC\ProjetoCompraAPI\workercompras\src\main\java\com\workercompras\config\RabbitmqConfig.java
+C:\Users\edu22\OneDrive\Área de Trabalho\PUC_POS_TCC\ProjetoCompraAPI\workercompras\src\main\java\com\workercompras\WorkercomprasApplication.java
+C:\Users\edu22\OneDrive\Área de Trabalho\PUC_POS_TCC\ProjetoCompraAPI\workercompras\src\main\java\com\workercompras\service\consumer\Consumer.java
+C:\Users\edu22\OneDrive\Área de Trabalho\PUC_POS_TCC\ProjetoCompraAPI\workercompras\src\main\java\com\workercompras\service\CepService.java
